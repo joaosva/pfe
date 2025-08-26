@@ -1,5 +1,5 @@
 import Profile from '@/components/Profile';
-import styles from '../styles/Index.module.css';
+import styles from '@/styles/Index.module.css';
 
 export default function HomePage() {
   return (
